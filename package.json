@@ -1,11 +1,11 @@
 {
   "name": "space-minimal-dark",
   "displayName": "Space Minimal Dark",
-  "description": "",
-  "version": "0.0.1",
+  "description": "A clean, modern and minimal dark theme with a space-inspired color palette",
+  "version": "0.0.2",
   "publisher": "MillerCreator",
   "engines": {
-    "vscode": "^1.96.0"
+    "vscode": "^1.84.0"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
         "path": "./themes/Space Minimal Dark-color-theme.json"
       }
     ]
-  ,
+  },
   "keywords": [
     "theme",
     "dark theme",
@@ -33,6 +33,17 @@
     "space theme",
     "clean",
     "modern"
-  ]
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "MillerCreator"
+  },
+  "galleryBanner": {
+    "color": "#0f0e2a",
+    "theme": "dark"
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run package",
+    "package": "vsce package"
   }
 }

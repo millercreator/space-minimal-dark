@@ -1842,6 +1842,195 @@
 		"settings": {
 		  "fontStyle": "italic"
 		}
+	  },
+	  {
+		"name": "commandCenter.background",
+		"scope": "commandCenter.background",
+		"settings": {
+		  "foreground": "#0f0e2a"
+		}
+	  },
+	  {
+		"name": "commandCenter.foreground",
+		"scope": "commandCenter.foreground",
+		"settings": {
+		  "foreground": "#cccccc"
+		}
+	  },
+	  {
+		"name": "commandCenter.border",
+		"scope": "commandCenter.border",
+		"settings": {
+		  "foreground": "#3f3e60b9"
+		}
+	  },
+	  {
+		"name": "editor.bracketPairGuideBackground1",
+		"scope": "editor.bracketPairGuideBackground1",
+		"settings": {
+		  "foreground": "#373562"
+		}
+	  },
+	  {
+		"name": "editor.bracketPairGuideBackground2",
+		"scope": "editor.bracketPairGuideBackground2",
+		"settings": {
+		  "foreground": "#4a476f"
+		}
+	  },
+	  {
+		"name": "editor.bracketPairGuideBackground3",
+		"scope": "editor.bracketPairGuideBackground3",
+		"settings": {
+		  "foreground": "#5c598c"
+		}
+	  },
+	  {
+		"name": "editor.bracketPairGuideBackground4",
+		"scope": "editor.bracketPairGuideBackground4",
+		"settings": {
+		  "foreground": "#6e6ba9"
+		}
+	  },
+	  {
+		"name": "editorInlayHint.background",
+		"scope": "editorInlayHint.background",
+		"settings": {
+		  "foreground": "#39394d"
+		}
+	  },
+	  {
+		"name": "editorInlayHint.foreground",
+		"scope": "editorInlayHint.foreground",
+		"settings": {
+		  "foreground": "#cccccc"
+		}
+	  },
+	  {
+		"name": "gitDecoration.renamedResourceForeground",
+		"scope": "gitDecoration.renamedResourceForeground",
+		"settings": {
+		  "foreground": "#73c991"
+		}
+	  },
+	  {
+		"name": "gitDecoration.stageAddedResourceForeground",
+		"scope": "gitDecoration.stageAddedResourceForeground",
+		"settings": {
+		  "foreground": "#81b88b"
+		}
+	  },
+	  {
+		"name": "terminal.inactiveSelectionBackground",
+		"scope": "terminal.inactiveSelectionBackground",
+		"settings": {
+		  "foreground": "#ffffff20"
+		}
+	  },
+	  {
+		"name": "terminalCommandDecoration.defaultBackground",
+		"scope": "terminalCommandDecoration.defaultBackground",
+		"settings": {
+		  "foreground": "#ffffff40"
+		}
+	  },
+	  {
+		"name": "terminalCommandDecoration.successBackground",
+		"scope": "terminalCommandDecoration.successBackground",
+		"settings": {
+		  "foreground": "#1B8B4C"
+		}
+	  },
+	  {
+		"name": "terminalCommandDecoration.errorBackground",
+		"scope": "terminalCommandDecoration.errorBackground",
+		"settings": {
+		  "foreground": "#F14C4C"
+		}
+	  },
+	  {
+		"name": "quickInput.background",
+		"scope": "quickInput.background",
+		"settings": {
+		  "foreground": "#0f0e2ab9"
+		}
+	  },
+	  {
+		"name": "quickInput.foreground",
+		"scope": "quickInput.foreground",
+		"settings": {
+		  "foreground": "#cccccc"
+		}
+	  },
+	  {
+		"name": "quickInputList.focusBackground",
+		"scope": "quickInputList.focusBackground",
+		"settings": {
+		  "foreground": "#062f4a"
+		}
+	  },
+	  {
+		"name": "editorOverviewRuler.addedForeground",
+		"scope": "editorOverviewRuler.addedForeground",
+		"settings": {
+		  "foreground": "#587c0c"
+		}
+	  },
+	  {
+		"name": "editorOverviewRuler.modifiedForeground",
+		"scope": "editorOverviewRuler.modifiedForeground",
+		"settings": {
+		  "foreground": "#0c7d9d"
+		}
+	  },
+	  {
+		"name": "editorOverviewRuler.deletedForeground",
+		"scope": "editorOverviewRuler.deletedForeground",
+		"settings": {
+		  "foreground": "#94151b"
+		}
+	  },
+	  {
+		"name": "testing.iconFailed",
+		"scope": "testing.iconFailed",
+		"settings": {
+		  "foreground": "#f14c4c"
+		}
+	  },
+	  {
+		"name": "testing.iconPassed",
+		"scope": "testing.iconPassed",
+		"settings": {
+		  "foreground": "#23d18b"
+		}
+	  },
+	  {
+		"name": "testing.iconSkipped",
+		"scope": "testing.iconSkipped",
+		"settings": {
+		  "foreground": "#cca700"
+		}
+	  },
+	  {
+		"name": "testing.peekBorder",
+		"scope": "testing.peekBorder",
+		"settings": {
+		  "foreground": "#007acc"
+		}
+	  },
+	  {
+		"name": "testing.message.error.decorationForeground",
+		"scope": "testing.message.error.decorationForeground",
+		"settings": {
+		  "foreground": "#f48771"
+		}
+	  },
+	  {
+		"name": "testing.message.info.decorationForeground",
+		"scope": "testing.message.info.decorationForeground",
+		"settings": {
+		  "foreground": "#75beff"
+		}
 	  }
 	],
 	"colors": {
