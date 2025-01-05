@@ -12,8 +12,6 @@ A clean, modern and minimal dark theme with a space-inspired color palette. This
 
 ## Screenshots
 
-[Add screenshots here]
-
 ## Installation
 
 1. Open VS Code
