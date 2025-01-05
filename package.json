@@ -1,0 +1,38 @@
+{
+  "name": "space-minimal-dark",
+  "displayName": "Space Minimal Dark",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "MillerCreator",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MillerCreator/space-minimal-dark-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Space Minimal Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Space Minimal Dark-color-theme.json"
+      }
+    ]
+  ,
+  "keywords": [
+    "theme",
+    "dark theme",
+    "minimal",
+    "space",
+    "dark",
+    "minimal theme",
+    "space theme",
+    "clean",
+    "modern"
+  ]
+  }
+}
