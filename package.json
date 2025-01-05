@@ -2,7 +2,7 @@
   "name": "space-minimal-dark",
   "displayName": "Space Minimal Dark",
   "description": "A clean, modern and minimal dark theme with a space-inspired color palette",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "publisher": "MillerCreator",
   "engines": {
     "vscode": "^1.84.0"
