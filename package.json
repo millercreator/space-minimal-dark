@@ -41,9 +41,5 @@
   "galleryBanner": {
     "color": "#0f0e2a",
     "theme": "dark"
-  },
-  "scripts": {
-    "vscode:prepublish": "npm run package",
-    "package": "vsce package"
   }
 }
